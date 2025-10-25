@@ -1,0 +1,34 @@
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.AssemblyReference.cache
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.Form1.resources
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.GenerateResource.cache
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.AssemblyInfoInputs.cache
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.AssemblyInfo.cs
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.CoreCompileInputs.cache
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.exe
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.deps.json
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.runtimeconfig.json
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.pdb
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\refint\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.pdb
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.genruntimeconfig.cache
+D:\Đồ Án Tin Học\DoAnTinHoc\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\ref\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.exe
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.deps.json
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.runtimeconfig.json
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.pdb
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.AssemblyReference.cache
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.Form1.resources
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.GenerateResource.cache
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.AssemblyInfoInputs.cache
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.AssemblyInfo.cs
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.CoreCompileInputs.cache
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\refint\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.pdb
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.genruntimeconfig.cache
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\ref\DoAnTinHoc_QLBanHangCaPhe.dll
