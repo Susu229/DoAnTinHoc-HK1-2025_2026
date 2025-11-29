@@ -13,6 +13,13 @@ namespace DoAnTinHoc_QLBanHangCaPhe.Data
         {
             Head = null;
         }
+        //chèn node mới đầu ds
+        public void Insert(GiaoDichBanHang giaoDich)
+        {
+            GiaoDichNode newNode = new GiaoDichNode(giaoDich);
+            newNode.Next = Head;
+            Head = newNode;
+        }
         public void Add(GiaoDichBanHang giaoDich)
         {
             GiaoDichNode newNode = new GiaoDichNode(giaoDich);
@@ -28,8 +35,42 @@ namespace DoAnTinHoc_QLBanHangCaPhe.Data
                     current = current.Next;
                 }
                 current.Next = newNode;
+
             }
         }
+        public bool DeleteHead()
+        {
+            if (Head == null)
+            {
+                return false;
+            }
+            Head = Head.Next;
+            return true;
+        }
+
+        public bool DeleteByTenMon(string tenMonCanXoa)
+        {
+            GiaoDichNode pCurrent = Head;
+            GiaoDichNode pPrev = null; 
+
+            while (pCurrent != null && !pCurrent.Data.TenMon.Equals(tenMonCanXoa, StringComparison.OrdinalIgnoreCase))
+            {
+                pPrev = pCurrent;
+                pCurrent = pCurrent.Next;
+            }
+            if (pCurrent == null) return false;
+            if (pPrev == null)
+            {
+                Head = pCurrent.Next;
+            }
+            else
+            {
+                pPrev.Next = pCurrent.Next;
+            }
+
+            return true;
+        }
+
         public List<GiaoDichBanHang> ToList()
         {
             List<GiaoDichBanHang> list = new List<GiaoDichBanHang>();
@@ -41,7 +82,6 @@ namespace DoAnTinHoc_QLBanHangCaPhe.Data
             }
             return list;
         }
-
         public List<GiaoDichBanHang> SearchByTitle(string keyword)
         {
             List<GiaoDichBanHang> results = new List<GiaoDichBanHang>();
@@ -72,5 +112,6 @@ namespace DoAnTinHoc_QLBanHangCaPhe.Data
             Head = null;
         }
         
+
     }
 }

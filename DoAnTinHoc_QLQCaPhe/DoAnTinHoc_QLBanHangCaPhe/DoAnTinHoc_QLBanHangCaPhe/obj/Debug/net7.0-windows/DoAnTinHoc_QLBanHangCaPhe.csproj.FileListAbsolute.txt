@@ -32,3 +32,5 @@ D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLB
 D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.pdb
 D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.genruntimeconfig.cache
 D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\ref\DoAnTinHoc_QLBanHangCaPhe.dll
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\ĐồÁnTinHọc\DoAnTinHoc_QLQCaPhe\DoAnTinHoc_QLBanHangCaPhe\DoAnTinHoc_QLBanHangCaPhe\obj\Debug\net7.0-windows\DoAnTinHoc_QLBanHangCaPhe.csproj.CopyComplete

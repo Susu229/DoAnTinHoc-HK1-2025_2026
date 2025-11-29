@@ -8,8 +8,12 @@ namespace DoAnTinHoc_QLBanHangCaPhe.Data
 {
     public class GiaoDichNode
     {
+        //dulieuluunode
+        //data la gdichbanhang
         public GiaoDichBanHang Data { get; set; }
+        //trodennodetieptheo-  previous
         public GiaoDichNode Next { get; set; }
+        //hàm khởi tạo node
         public GiaoDichNode(GiaoDichBanHang data)
         {
             this.Data = data;

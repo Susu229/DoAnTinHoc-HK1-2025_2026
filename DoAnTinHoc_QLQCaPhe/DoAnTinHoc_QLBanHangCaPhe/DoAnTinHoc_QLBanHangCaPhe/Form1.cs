@@ -6,9 +6,11 @@ using System.Text;
 using System.Data;
 using System.Threading;
 using System.Linq;
+using Newtonsoft.Json;
 using DoAnTinHoc_QLBanHangCaPhe.Data;
 
-namespace DoAnTinHoc_QLBanHangCaPhe { 
+namespace DoAnTinHoc_QLBanHangCaPhe
+{
 
     public partial class Form1 : Form
     {
@@ -50,7 +52,7 @@ namespace DoAnTinHoc_QLBanHangCaPhe {
             this.dataGridView1.DataSource = this.table;
             this.dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
-            MessageBox.Show($"Đã hiển thị {this.table.Rows.Count} giao dịch từ Linked List.", "Thành công!!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show($"Đã hiển thị giao dịch.", "Thành công!!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private DataTable ConvertLinkedListToDataTable(DanhSachGiaoDich list)
@@ -98,7 +100,7 @@ namespace DoAnTinHoc_QLBanHangCaPhe {
             danhSachGiaoDich = XuLyCSV.ReadCsvToLinkedList(filePath);
             if (danhSachGiaoDich != null && danhSachGiaoDich.Count() > 0)
             {
-                MessageBox.Show($"Đã tải thành công {danhSachGiaoDich.Count()} giao dịch vào Linked List.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show($"Đã tải thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
@@ -139,7 +141,7 @@ namespace DoAnTinHoc_QLBanHangCaPhe {
                 return;
             }
 
-            DataTable selectedDt = currentDt.Clone(); 
+            DataTable selectedDt = currentDt.Clone();
 
             foreach (DataGridViewRow selectedRow in dataGridView1.SelectedRows)
             {
@@ -161,6 +163,36 @@ namespace DoAnTinHoc_QLBanHangCaPhe {
 
             displayForm.Controls.Add(newGrid);
             displayForm.ShowDialog();
+        }
+        private void RefreshDataGridView()
+        {
+            DataTable dtDuLieuMoi = ConvertLinkedListToDataTable(danhSachGiaoDich);
+            this.table = dtDuLieuMoi;
+
+            this.dataGridView1.DataSource = this.table;
+            this.dataGridView1.Refresh();
+        }
+        private void btnXoaTheoTen_Click(object sender, EventArgs e)
+        {
+            string tenMonCanXoa = txtTenMonCanXoa.Text.Trim();
+            if (string.IsNullOrEmpty(tenMonCanXoa))
+            {
+                MessageBox.Show("Vui lòng nhập Tên Món cần xóa.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (danhSachGiaoDich.DeleteByTenMon(tenMonCanXoa))
+            {
+                RefreshDataGridView();
+            }
+            else
+            {
+                MessageBox.Show($"Không tìm thấy món '{tenMonCanXoa}' để xóa.", "Lỗi Xóa", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            //
         }
     }
 }

@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "EdIaFJ3PVuLh7tPEFFoYx9L+kMXmEFO2EOOi4cB2DU8f4vTV/1YgYRzOKNMd0XPqvqSU1KkVhpL8G1oK5FQH9w==",
+  "dgSpecHash": "8KZbiIbRn2l92flijVMtCzDIMz/a9SBmbIbEKvZDpXDMwkAbXT6qDnjjWBn4nSvW53SoJXGG2IST6seqN9pZtA==",
   "success": true,
   "projectFilePath": "D:\\ĐồÁnTinHọc\\DoAnTinHoc_QLQCaPhe\\DoAnTinHoc_QLBanHangCaPhe\\DoAnTinHoc_QLBanHangCaPhe\\DoAnTinHoc_QLBanHangCaPhe.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Rich\\.nuget\\packages\\newtonsoft.json\\7.0.1\\newtonsoft.json.7.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 7.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
 }
